@@ -1,5 +1,7 @@
 # Projects from Cousera course 'Algorithm, part I',created by Princeton University.
 
+I programmed 4 projects when I did self-learning on the 'Algorithm, part I' course from Cousera.
+
 This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations.
 
 | Project Name | Description |
